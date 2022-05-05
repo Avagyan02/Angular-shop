@@ -1,0 +1,16 @@
+{
+  "env": {
+    "node": true
+  },
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "no-console": "off",
+    "prefer-regex-literals": "off",
+    "no-plusplus": "off",
+    "consistent-return": "off",
+    "no-underscore-dangle": "off",
+    "prefer-destructuring": "off"
+  }
+}
+  
